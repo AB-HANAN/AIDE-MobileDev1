@@ -595,9 +595,7 @@ The AIDE mobile app is a working academic prototype. It demonstrates role-based 
 ### Team Members
 
 - Abdul Hanan Asif
-- Sheikh Shan Elahi
-- Mobeen Azam Mazari
-- Ghulam Hassan
+- Asher E David
 
 ---
 
@@ -611,9 +609,3 @@ AIDE is an academic prototype developed for educational and demonstration purpos
 
 This repository is intended for academic project use. Add the preferred license for the repository before making it public.
 ---
-
-## GROUP MEMBERS 
-
-ABDUL HANAN ASIF
-Asher E David
-
